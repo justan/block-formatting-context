@@ -1,0 +1,19 @@
+{
+  "name": "block-formatting-context",
+  "version": "0.1.0",
+  "description": "Block formatting context detect",
+  "main": "index.js",
+  "scripts": {
+    "test": "run-browser test"
+  },
+  "keywords": [
+    "bfc", "block formatting context"
+  ],
+  "author": "justan",
+  "license": "MIT",
+  "devDependencies": {
+    "global": "^4.3.0",
+    "run-browser": "^2.0.2",
+    "tape": "^4.0.3"
+  }
+}
